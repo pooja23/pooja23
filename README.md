@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @pooja23
+- 👀 I’m interested in different UI frameworks...
+- 🌱 I’m currently learning Angular JS...
+- 📫 reach me on pooja.yadav023@gmail.com...
+
+<!---
+pooja23/pooja23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
